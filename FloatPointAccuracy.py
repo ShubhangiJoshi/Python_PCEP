@@ -1,0 +1,1 @@
+# floating point numbers are stored as binary fraction
